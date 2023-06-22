@@ -37,6 +37,10 @@ padding-bottom: 60px;
  .s_feature{
  	margin-top: 24px;
  }
+ .c_h1{
+	font-size: 30px;
+	line-height: 45px;
+}
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -73,6 +77,10 @@ header{
 .c_padd{
 	padding-bottom: 60px;
 }
+ .c_h1{
+	font-size: 30px;
+	line-height: 45px;
+}
 }
 
 /* Medium devices (tablets, 768px and up)*/
@@ -99,6 +107,9 @@ header{
 	margin-bottom: 30px;
 	padding: 0 80px;
 }
+}
+.c_padd{
+	padding-bottom: 80px;
 }
 
 /* Large devices (desktops, 992px and up)*/
